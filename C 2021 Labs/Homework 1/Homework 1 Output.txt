@@ -1,8 +1,0 @@
-Enter the bill: 20.25
-Enter the percentage of the tip: 20
-Enter the number of people: 3
-Tip per person is $1.35 and total per person is $8.10
---------------------------------
-Process exited after 8.331 seconds with return value 0
-Press any key to continue . . .
-
